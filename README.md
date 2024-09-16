@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<div style="display:flex; justify-content:center; align-items:center;">
-      <img
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY0MHJ1NzMzMWM5eXVlZXA3aHA0Z3gyMHBoeHB2dmNmd2h0eXV0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp"
-      alt="Coding"
-      width="full"
-    />
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY0MHJ1NzMzMWM5eXVlZXA3aHA0Z3gyMHBoeHB2dmNmd2h0eXV0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" alt="Coding" width="500" />
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazar&label=Profile%20views&color=0e75b6&style=flat" alt="nazar" /> </p>
