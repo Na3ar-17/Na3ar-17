@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img
-src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo"
+src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"
       alt="Coding"
       width="full"
     />
