@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGY0MHJ1NzMzMWM5eXVlZXA3aHA0Z3gyMHBoeHB2dmNmd2h0eXV0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.webp" alt="Coding" width="500" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh5bmVnN292ZnhzcXJ3b2wyN24xY3A1MnFtdTgwOHl3MXQyMngzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" alt="Coding" width="500" />
 </p>
 
 
