@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/autumn-landscape-with-trees-night_107791-11603.jpg?t=st=1735977052~exp=1735980652~hmac=29a9e6b38c5d0822abd5eeaca263f8b2d8989505833f75af2e4feedcd0862461&w=1380" alt="banner"/>
+<img src="https://wallpapersmug.com/download/1600x900/95afc8/dark-night-river-forest-minimal-art.jpg" alt="banner" width="100%"/>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
