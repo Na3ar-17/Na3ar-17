@@ -1,4 +1,4 @@
-<img src="https://wallpapersmug.com/download/1600x900/95afc8/dark-night-river-forest-minimal-art.jpg" alt="banner" width="100%"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/1010/169/169/unix-linux-ios-macbook-arch-hd-wallpaper-preview.jpg" alt="banner" width="100%"/>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
